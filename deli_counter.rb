@@ -9,5 +9,7 @@ def line(Katz_deli)
     Katz_deli.each_with_index do |person, index|
       place = index + 1 
       callOut += " #{place}. #{person}"
-      
+    end 
+  end 
+  
 end
