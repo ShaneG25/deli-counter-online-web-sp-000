@@ -7,5 +7,5 @@ def line(Katz_deli)
   else 
     callOut = "The line is currently:"
     Katz_deli.each_with_index do |person, index|
-      
+      place = index +1  
 end
