@@ -6,5 +6,6 @@ def line(Katz_deli)
     return "The line is currently empty."
   else 
     callOut = "The line is currently:"
-    Katz_deli.each_with_index do 
+    Katz_deli.each_with_index do |person, index|
+      
 end
