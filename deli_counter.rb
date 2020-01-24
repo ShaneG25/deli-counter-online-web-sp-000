@@ -5,5 +5,5 @@ def line(Katz_deli)
     puts "The line is currently empty."
     return "The line is currently empty."
   else 
-    
+    callOut 
 end
