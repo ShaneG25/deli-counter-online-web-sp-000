@@ -6,5 +6,5 @@ def line(Katz_deli)
     return "The line is currently empty."
   else 
     callOut = "The line is currently:"
-    
+    Katz_deli.each_
 end
