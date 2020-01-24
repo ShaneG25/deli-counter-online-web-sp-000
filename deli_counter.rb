@@ -15,6 +15,6 @@ def line(katz_deli)
   puts callOut 
 end
 
-def take_a_number(katz_deli, person)
-  person = 
+def take_a_number(katz_deli, name)
+  katz_deli << name
 end 
