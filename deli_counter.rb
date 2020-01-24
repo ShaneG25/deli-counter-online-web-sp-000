@@ -11,5 +11,5 @@ def line(Katz_deli)
       callOut += " #{place}. #{person}"
     end 
   end 
-  
+  puts callOut 
 end
